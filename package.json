@@ -1,0 +1,17 @@
+{
+  "name": "frank-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.6.1",
+    "express": "^4.14.0",
+    "moment": "^2.17.0",
+    "superagent": "^3.0.0"
+  }
+}
